@@ -1,0 +1,42 @@
+[
+    {
+        "type":"physical",
+        "product_id":"P1",
+        "name":"Wireless Mouse",
+        "price":799.0,
+        "quantity_available":20,
+        "weight":0.1
+    },
+    {
+        "type":"digital",
+        "product_id":"D1",
+        "name": "Advanced Python E-book",
+        "price":299.0,
+        "quantity_available":50,
+        "download_link":"http://example.com/ebook"
+    },
+    {
+        "type":"physical",
+        "product_id":"P2",
+        "name":"Keyboard",
+        "price":1499,
+        "quantity_available":15,
+        "weight":0.6
+    },
+    {
+        "type": "physical",
+        "product_id":"P3",
+        "name":"Laptop - ASUS Vivobook",
+        "price":59999,
+        "quantity_available":10,
+        "weight":2.3
+    },
+    {
+        "type":"digital",
+        "product_id":"D2",
+        "name":"Flipkart Gift card",
+        "price":250,
+        "quantity_available":500,
+        "download_link":"http://example.com/250_rs_gift_card_flipkart"
+    }
+]
